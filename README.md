@@ -1,0 +1,2 @@
+### Description
+* jQuery Hide Paragraphs
